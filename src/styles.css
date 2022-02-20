@@ -1,0 +1,95 @@
+.container {
+  max-height: 100vh;
+}
+
+.weather-card-icon {
+  font-size: 40px;
+  padding-bottom: 8px;
+}
+
+.search-location {
+  border-radius: 50px;
+}
+
+.btn {
+  border-radius: 50px;
+}
+.max-t {
+  font-size: 15px;
+}
+
+.min-t {
+  font-size: 15px;
+  color: #767676;
+}
+
+.city {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.temperature {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 100px;
+  line-height: 90px;
+  font-weight: 200;
+}
+
+.degree {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 30px;
+}
+
+.weather-condition {
+  font-size: 24px;
+}
+
+.header {
+  margin: 16px 0 0 0;
+}
+
+.search-location {
+  margin: 0 16px;
+}
+
+.input-search {
+  border-radius: 25px;
+  border-color: #ff7a52;
+}
+
+.cta {
+  border-radius: 25px;
+  font-size: 14px;
+  /*display: block;*/
+  color: rgb(0, 0, 0);
+}
+
+.button-location {
+  /*position: absolute;*/
+  right: 0px;
+  font-size: 16px;
+  /*border-color: #767676;*/
+  /*background-color: #f6f6f6;*/
+  color: black;
+  border-color: #ff7a52;
+}
+
+.align-information {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: space-between;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 h6 {
+  margin: 0;
+}
